@@ -173,12 +173,12 @@ Welcome to the SDE Interview Preparation Roadmap! This repository is not just ab
      - [Designing Data Intensive Applications by Martin Kleppmann](./System%20Design/Resources/Designing%20Data%20Intensive%20Applications%20by%20Martin%20Kleppmann.pdf)
 
    - [ ] **Design patterns**
-     - [ ] **Creational patterns**
-       - [ ] Singleton
-       - [ ] Factory Method
-       - [ ] Abstract Factory
-       - [ ] Builder
-       - [ ] Prototype
+     - [x] **Creational patterns**
+       - [x] Singleton
+       - [x] Factory Method
+       - [x] Abstract Factory
+       - [x] Builder
+       - [x] Prototype
      - [ ] **Structural patterns**
        - [ ] Adapter
        - [ ] Bridge
